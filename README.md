@@ -6,3 +6,5 @@ Prueba de Git y Github en la UNAM
 ## Erik Villegas Rosales, Estudiante
 
 ## Mario Ibarra, Profesor
+
+## Aldo Reyes, Pasante
