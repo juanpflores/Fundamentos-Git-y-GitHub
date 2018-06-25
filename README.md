@@ -12,3 +12,5 @@ Prueba de Git y Github en la UNAM
 ## Maricarmen Lopez, Profesor
 
 ## Andrea Zentella, Profesor
+
+## Veronica Jaramillo, Estudiante
