@@ -1,4 +1,3 @@
-# Codigo de Prueba
-Prueba de Git y Github en la UNAM
+# Clase de Fundamentos de Git y GitHub
 
 ## Juan Pablo Flores, Estudiante
