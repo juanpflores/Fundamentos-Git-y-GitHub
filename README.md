@@ -1,3 +1,3 @@
 # Clase de Fundamentos de Git y GitHub
 
-## Edycop, Estudiante
+## Juan Pablo Flores, Estudiante
