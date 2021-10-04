@@ -1,4 +1,5 @@
 # Clase de Fundamentos de Git y GitHub
 
 ## Juan Pablo Flores, Estudiante
-## hola soy jonatan leon
+## Hola soy Jonatan León
+Trabajo en la Universidad
